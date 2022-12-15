@@ -4,7 +4,7 @@
   </a>
 
   <p align="center">
-    An start up charity founded by Ms. Mocha
+    Anti Rejection for ur crush (ew yuck)
     <br />
     <a href="https://lugh-tuatha.github.io/yes-or-yes/">View Demo</a>
     ·
