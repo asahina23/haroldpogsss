@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://lugh-tuatha.github.io/hands-for-filipinos/">
-    <img src="images/logo.png" alt="Logo" height="80">
+    <img src="img/readme-2.png" alt="Logo" height="80">
   </a>
 
   <p align="center">
