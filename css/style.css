@@ -165,16 +165,6 @@ body {
 .sadboi {
     padding-left: 200px;
 }
-
-#sad23 {
-    width: 580px;
-    height: 380px;
-    padding-left: 400px;
-}
-#sad23 {
-    transform: translateY (-4em);
-    opacity: 0;
-}
 @keyframes bounce2 {
 
     0%,
