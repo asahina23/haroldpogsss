@@ -39,7 +39,7 @@ const hahahuhu = document.getElementById("hahahuhu");
 const hang = document.getElementById("hang");
 const sadsad = document.getElementById("sadsad");
 const frog = document.getElementById("frog");
-const frog = document.getElementById("sad23");
+const sad23 = document.getElementById("sad23");
 
 no.addEventListener("click", function () {
   btt12.style.opacity = "1";
